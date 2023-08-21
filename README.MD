@@ -58,3 +58,17 @@ hangi tarihte yapildigi commit mesaji ile ilgili loglari iceriyor
 <!--! git log --oneline -->
 
 Yapilmis commitleri tek satir seklinde gosteriyor
+
+<!--todo BRANCH -->
+
+<!--! git branch --->
+
+Localdaki tum branchleri gosterir
+
+<!--! git branch --all --->
+
+Hem localdaki hemde github yani remote deki tum brancleri gosterir
+
+<!--! git fetch -->
+
+uzaktaki branch a ulasmak icin kullanilir. uzaktaki repo da yeni branch olusutulmussa erisilebilir olur
